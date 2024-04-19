@@ -1,0 +1,13 @@
+    1  git config --global user.name "AlinkaP"
+    2  git config --global user.email "valerochkina@gmail.com"
+    3  git clone https://github.com/AlinkaP/HW_10.git
+    4  cd HW_10
+    5  touch text_ignore.txt
+    6  notepad .gitignore
+    7  git status
+    8  git add .
+    9  git commit -m "really"
+   10  git log
+   11  cd desktop/three
+   12  cd HW_10
+   13  history > command_list.csv
